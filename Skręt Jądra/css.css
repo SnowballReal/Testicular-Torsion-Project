@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+
+img {
+    background-color: #E9926E;
+    border-radius: 25px;
+}
+
+a {
+    font-family: "comic sans ms";
+    color: aliceblue;
+    background-color: #E9926E;
+    padding: 5px;
+    text-decoration-thickness:100px ;
+    font-size: 50px;
+    border-radius: 40px;
+    text-decoration: none;
+}
